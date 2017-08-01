@@ -4,6 +4,8 @@ Allows users to add contact, remove contact and search for a contact
 
 ------------------------------------------------------------------------------------------------------------
 
+Create-React-App
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
